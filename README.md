@@ -1,6 +1,9 @@
 # comp211-checkoff-3
 Public repository containing my COMP211 Checkoff 3 requirements.
 
+### Structure
+The home directory contains the PDF version of the slides and the AI reflection (both containing links to the Claude conversation), as well as two demo folders: side-by-side-1, the first example that I used in my presentation to compare C's malloc() and free() to Rust's management, and rust-implicit-flag, which shows Rust creation of a flag to track whether or not it needs to free at runtime.
+
 # To Run The Code in this Repo
 ### Rust
 To run the Rust code in the repo, you must first download XCode CLI and Rust. The below instructions are for Mac. If you're running on Linux or Windows, please follow the appopriate instructions on the [Rust Website](rustup.rs).
